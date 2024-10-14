@@ -28,6 +28,13 @@ h1 {
     background: #ffffff;
     width: 1393px;
     height: 1140px;
+    align-items: center;
+}
+.main-heading{
+    font-size: 30px;
+}
+.main-first-heading{
+    text-align: center;
 }
 .main-three-part{
     text-align: left;
