@@ -24,3 +24,19 @@ h1 {
     color: white;
 
 }
+.main-section{
+    background: #ffffff;
+    width: 1393px;
+    height: 1140px;
+}
+.main-three-part{
+    text-align: left;
+    display: flex;
+    background;
+
+
+}
+.main-section-first-img{
+    margin-left: 50px;
+    width: auto%;
+}
