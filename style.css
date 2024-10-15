@@ -139,3 +139,24 @@ h1 {
     padding: 20px 50px;
     display: flex;
 }
+footer{
+    background-image: url(images/handshake.jpg);
+    color: white;
+    text-align: center;
+    padding: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.input{
+    width: ;
+    margin: 20px;
+    
+}
+button{
+    padding: 10px 20px;
+    margin-left: 10px;
+    background: white;
+    border: none;
+    border-radius: 5px;
+}
