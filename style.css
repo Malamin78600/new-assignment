@@ -1,13 +1,12 @@
 *{
-    background: white;
+    background: white);
 }
 #nav-banner {
     background-image: url(images/hero-bg.png);
-    width: 1440px;
-    height: 652px;
+    max-width: 1440px;
+    max-height: 652px;
     text-align: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    padding: 100px;
 }
 
 h1 {
@@ -26,28 +25,30 @@ h1 {
     
 }
 .main-section{
-    background: #e9d5d5;
+    background: hwb(0 100% 0% / 0.977);
     width: 1393px;
-    height: 1140px;
+    height: 1100px;
     align-items: center;
-    margin: 20px;
-    padding-top: 150px;
+    padding-top: 10px;
+    margin: 100px 150px;
 }
 .main-heading{
     font-size: 30px;
 }
 .main-first-heading{
     text-align: center;
+    padding: 30px;
 }
 .main-three-part{
     text-align: left;
     display: flex;
-    background-color: rgb(255, 255, 255); 
     padding: 50px;
+    
+    
 
 }
 .three-part{
-    margin: 100px;
+    margin: 20px;
 }
 .main-section-first-img{
     margin-left: 50px;
