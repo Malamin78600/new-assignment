@@ -1,6 +1,7 @@
-*{
+* {
     background: white);
 }
+
 #nav-banner {
     background-image: url(images/hero-bg.png);
     max-width: 1440px;
@@ -12,19 +13,22 @@
 h1 {
     font-size: 50px;
 }
-.btn{
+
+.btn {
     background-color: rgb(0, 0, 0);
     border-radius: 5px;
     padding: 10px 15px;
     margin: 25px;
     color: white;
-   
+
 }
-.btn a{
+
+.btn a {
     text-decoration: none;
-    
+
 }
-.main-section{
+
+.main-section {
     background: hwb(0 100% 0% / 0.977);
     width: 1393px;
     height: 1100px;
@@ -32,32 +36,106 @@ h1 {
     padding-top: 10px;
     margin: 100px 150px;
 }
-.main-heading{
+
+.main-heading {
     font-size: 30px;
 }
-.main-first-heading{
+
+.main-first-heading {
     text-align: center;
     padding: 30px;
 }
-.main-three-part{
+
+.main-three-part {
     text-align: left;
     display: flex;
     padding: 50px;
 }
-.three-part{
+
+.three-part {
     margin: 20px;
 }
-.main-section-first-img{
+
+.main-section-first-img {
     margin-left: 50px;
     width: auto%;
 }
-.three-part-btn{
+
+.three-part-btn {
     padding: 15px 20px;
     font-size: 20px;
     background: white;
     margin-top: 20px;
 }
-.inspiration{
+
+.inspiration {
     text-align: center;
     padding-bottom: 50px;
+}
+
+.fourth-section-heading {
+    text-align: center;
+    margin: 100px;
+}
+
+.inspiration-para {
+    padding: 0px 150px;
+    margin: 0px 50px;
+}
+
+.forth-section-para {
+    padding: 0px 100px;
+}
+
+.fourth-section-three-target {
+    display: flex;
+    margin: 0px 150px;
+}
+
+.fourth-section-part-one {
+    background: rgb(240, 235, 235);
+    margin: 0px 20px;
+    padding: 20px 20px;
+}
+
+.fourth-section-part-two {
+    background-color: rgb(156, 254, 254);
+    margin: 0px 20px;
+    padding: 20px 20px;
+}
+
+.fourth-section-part-three {
+    background-color: rgb(253, 255, 255);
+    margin: 0px 20px;
+    padding: 20px 20px;
+}
+
+.anchor-black {
+    color: black;
+}
+
+.fifth-section {
+    text-align: center;
+}
+
+.fifth-one {
+    border: 3px solid aqua;
+    border-radius: 5px;
+    margin: 20px 150px;
+    padding: 20px 50px;
+    display: flex;
+}
+.fifth-two {
+    border: 3px solid aqua;
+    border-radius: 5px;
+    margin: 20px 150px;
+    padding: 20px 50px;
+    display: flex;
+}
+.fifth-three {
+    border: 3px solid aqua;
+    border-radius: 5px;
+    margin: 20px 150px;
+    padding: 20px 50px;
+    display: flex;
 }
