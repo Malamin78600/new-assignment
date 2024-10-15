@@ -2,7 +2,7 @@
     background: white;
 }
 #nav-banner {
-    background-image: url(assets/hero-bg.png);
+    background-image: url(/assets/hero-bg.png);
     width: 1440px;
     height: 652px;
     text-align: center;
@@ -30,7 +30,7 @@ h1 {
     width: 1393px;
     height: 1140px;
     align-items: center;
-    margin: 50px;
+    margin: 20px;
     padding-top: 150px;
 }
 .main-heading{
