@@ -1,9 +1,13 @@
+*{
+    background: white;
+}
 #nav-banner {
     background-image: url(assets/hero-bg.png);
     width: 1440px;
     height: 652px;
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 h1 {
@@ -25,10 +29,12 @@ h1 {
 
 }
 .main-section{
-    background: #ffffff;
+    background: #e9d5d5;
     width: 1393px;
     height: 1140px;
     align-items: center;
+    margin: 50px;
+    padding-top: 150px;
 }
 .main-heading{
     font-size: 30px;
@@ -39,11 +45,20 @@ h1 {
 .main-three-part{
     text-align: left;
     display: flex;
-    background;
+    background-color: rgb(255, 255, 255); 
+    padding: 50px;
 
-
+}
+.three-part{
+    margin: 100px;
 }
 .main-section-first-img{
     margin-left: 50px;
     width: auto%;
+}
+.three-part-btn{
+    padding: 15px 20px;
+    font-size: 20px;
+    background: white;
+    margin-top: 20px;
 }
